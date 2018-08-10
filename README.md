@@ -6,7 +6,7 @@ Final project for FSND
 
 - Accessible SSH port: 2200
 
-- Application URL: http://54.95.190.199/
+- Application URL: no longer available
 
 ### Setup
 
